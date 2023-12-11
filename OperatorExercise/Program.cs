@@ -37,7 +37,7 @@
                 double area = Math.PI * radius * radius;
 
 
-                Console.WriteLine($"Area of Circle is: + {area}");
+                Console.WriteLine($"Area of Circle is: {area}");
 
 
             }
